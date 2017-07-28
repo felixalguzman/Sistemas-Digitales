@@ -1,0 +1,698 @@
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 
+xst -intstyle ise -ifn "C:/Users/felix/Documents/Digitales/semaforo/top_module.xst" -ofn "C:/Users/felix/Documents/Digitales/semaforo/top_module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Basys2_100_250General.ucf -p xc3s100e-cp132-5 top_module.ngc top_module.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o top_module_map.ncd top_module.ngd top_module.pcf 
+par -w -intstyle ise -ol high -t 1 top_module_map.ncd top_module.ncd top_module.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_module.twx top_module.ncd -o top_module.twr top_module.pcf -ucf Basys2_100_250General.ucf 
+bitgen -intstyle ise -f top_module.ut top_module.ncd 

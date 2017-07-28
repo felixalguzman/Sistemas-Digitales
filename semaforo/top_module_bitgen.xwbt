@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\felix\Documents\Digitales\semaforo\top_module.ncd
+OUTFILE=C:\Users\felix\Documents\Digitales\semaforo\top_module.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=C:\Users\felix\Documents\Digitales\semaforo
+LICENSE=WebPack
+USER_INFO=211362614_0_0_553

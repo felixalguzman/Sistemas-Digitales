@@ -1,0 +1,27 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Jul 26 09:48:20 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "Led<3>" LOCATE = SITE "P6" LEVEL 1;
+COMP "Led<4>" LOCATE = SITE "N5" LEVEL 1;
+COMP "Led<5>" LOCATE = SITE "N4" LEVEL 1;
+COMP "Led<6>" LOCATE = SITE "P4" LEVEL 1;
+COMP "btn<0>" LOCATE = SITE "G12" LEVEL 1;
+COMP "btn<1>" LOCATE = SITE "C11" LEVEL 1;
+COMP "btn<2>" LOCATE = SITE "M4" LEVEL 1;
+COMP "btn<3>" LOCATE = SITE "A7" LEVEL 1;
+COMP "sw2<4>" LOCATE = SITE "G3" LEVEL 1;
+COMP "sw2<5>" LOCATE = SITE "F3" LEVEL 1;
+COMP "sw<0>" LOCATE = SITE "P11" LEVEL 1;
+COMP "sw<1>" LOCATE = SITE "L3" LEVEL 1;
+COMP "sw<2>" LOCATE = SITE "K3" LEVEL 1;
+COMP "sw<3>" LOCATE = SITE "B4" LEVEL 1;
+COMP "sw7<7>" LOCATE = SITE "N3" LEVEL 1;
+COMP "mclk" LOCATE = SITE "B8" LEVEL 1;
+COMP "Led<0>" LOCATE = SITE "M5" LEVEL 1;
+COMP "Led<1>" LOCATE = SITE "M11" LEVEL 1;
+COMP "Led<2>" LOCATE = SITE "P7" LEVEL 1;
+NET "mclk_BUFGP/IBUFG" BEL "mclk_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+
